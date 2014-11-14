@@ -1,0 +1,25 @@
+{
+  "name": "tar-map-stream",
+  "version": "0.0.0",
+  "description": "WIP - nothing to see here",
+  "main": "index.js",
+  "dependencies": {
+    "duplexify": "^3.2.0",
+    "pump": "^1.0.0",
+    "tar-stream": "^1.0.2"
+  },
+  "devDependencies": {
+    "concat-stream": "^1.4.6",
+    "tape": "^3.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/tar-map-stream.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/tar-map-stream/issues"
+  },
+  "homepage": "https://github.com/mafintosh/tar-map-stream"
+}
