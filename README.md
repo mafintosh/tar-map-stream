@@ -6,6 +6,8 @@ Streaming mapping of tarball headers
 npm install tar-map-stream
 ```
 
+[![build status](http://img.shields.io/travis/mafintosh/tar-map-stream.svg?style=flat)](http://travis-ci.org/mafintosh/tar-map-stream)
+
 ## Usage
 
 ``` js
