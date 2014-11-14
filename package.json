@@ -1,7 +1,7 @@
 {
   "name": "tar-map-stream",
   "version": "0.0.0",
-  "description": "WIP - nothing to see here",
+  "description": "Streaming mapping of tarball headers",
   "main": "index.js",
   "dependencies": {
     "duplexify": "^3.2.0",
@@ -11,6 +11,9 @@
   "devDependencies": {
     "concat-stream": "^1.4.6",
     "tape": "^3.0.3"
+  },
+  "scripts": {
+    "test": "tape test.js"
   },
   "repository": {
     "type": "git",
